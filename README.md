@@ -18,3 +18,4 @@ This repository contains my solutions to basic C programming problems from my co
 * **`swap_with_bitwise.c`**: Swaps two numbers using the XOR bitwise operator.
 * **`power_of_two.c`**: Checks if a number is a power of two using bitwise AND.
 * **`toggle_certain_bits.c`**: Toggles the 2nd and 4th bits of a number using a mask.
+* **`toggle_operation.c`**: Toggles any bit of a given number as per the user input.
