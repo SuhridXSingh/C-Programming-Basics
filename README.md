@@ -19,3 +19,7 @@ This repository contains my solutions to basic C programming problems from my co
 * **`power_of_two.c`**: Checks if a number is a power of two using bitwise AND.
 * **`toggle_certain_bits.c`**: Toggles the 2nd and 4th bits of a number using a mask.
 * **`toggle_operation.c`**: Toggles any bit of a given number as per the user input.
+
+### Lab 4: If-else statements
+* **`largest_number.c`**: Checks for the largest input by the user among the three input numbers.
+
