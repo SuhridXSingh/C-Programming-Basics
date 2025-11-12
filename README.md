@@ -26,3 +26,9 @@ This repository contains my solutions to basic C programming problems from my co
 * **`largest_number.c`**: Checks for the largest input by the user among the three input numbers.
 * **`positive_negative_zero.c`**: Checks if the input integer is positive, negative or zero.
 
+### Lab 5: Loops (For,While,Do-While)
+* **`one_to_n.c`**: Prints all the numbers from 1 to n, where n is input by the user using a for loop.
+
+### Lab 6: Arrays
+
+
