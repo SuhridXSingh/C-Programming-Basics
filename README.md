@@ -32,6 +32,7 @@ This repository contains my solutions to basic C programming problems from my co
 * **`multiplication_table.c`**: A multiplication table of any number input by user using a for loop.
 * **`find_num_of_digits.c`**: To check the number of digits of the input value using a do-while loop.
 * **`even_in_range.c`**: To print all the even nums in input range using for loop.
+* **`sum_of_positives.c`**: To add all the positive input values until a negative value is entered.
 
 ### Lab 6: Arrays
 
