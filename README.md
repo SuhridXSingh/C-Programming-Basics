@@ -29,6 +29,7 @@ This repository contains my solutions to basic C programming problems from my co
 ### Lab 5: Loops (For,While,Do-While)
 * **`one_to_n.c`**: Prints all the numbers from 1 to n, where n is input by the user using a for loop.
 * **`sum_of_n_nat_nums.c`**: To print the sum of N natural numbers input by the user using a while loop.
+* **`multiplication_table.c`**: A multiplication table of any number input by user using a for loop.
 
 ### Lab 6: Arrays
 
