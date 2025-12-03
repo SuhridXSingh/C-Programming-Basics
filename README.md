@@ -35,5 +35,4 @@ This repository contains my solutions to basic C programming problems from my co
 * **`sum_of_positives.c`**: To add all the positive input values until a negative value is entered.
 
 ### Lab 6: Arrays
-
-
+* **`rotate_array.c`**: To take user inputs in an array and rotate it by K times based on another user input.
